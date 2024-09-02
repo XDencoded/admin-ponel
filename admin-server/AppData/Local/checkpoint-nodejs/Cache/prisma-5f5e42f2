@@ -1,0 +1,30 @@
+{
+  "last_reminder": 0,
+  "cached_at": 1725257384906,
+  "version": "5.19.0",
+  "cli_path": "D:\\Projects\\Lessons\\admin\\admin-server\\node_modules\\prisma\\build\\index.js",
+  "output": {
+    "product": "prisma",
+    "previous_version": "5.19.0",
+    "checkpoint_version": 4,
+    "local_timestamp_without_timezone": "2024-09-02T11:09:43Z",
+    "current_version": "5.19.0",
+    "current_release_date": 1724768914,
+    "client_event_id": "225c7c10-8624-471a-9205-9646ac8d9cf6",
+    "current_download_url": "https://github.com/prisma/prisma",
+    "package": "prisma",
+    "release_tag": "latest",
+    "install_command": "npm install --save-dev prisma",
+    "schema_providers": [
+      "postgresql"
+    ],
+    "schema_preview_features": [],
+    "schema_generators_providers": [
+      "prisma-client-js"
+    ],
+    "current_changelog_url": "https://github.com/prisma/prisma",
+    "outdated": false,
+    "project_website": "https://prisma.io",
+    "alerts": []
+  }
+}
